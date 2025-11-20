@@ -14,11 +14,11 @@
 
 
     <Item>
-      <modelName>350z</modelName>
-      <txdName>350z</txdName>
-      <handlingId>350z</handlingId>
+      <modelName>speed3</modelName>
+      <txdName>speed3</txdName>
+      <handlingId>speed3</handlingId>
       <gameName>350z</gameName>
-      <vehicleMakeName>NISSAN</vehicleMakeName>
+      <vehicleMakeName>MAZDA</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
